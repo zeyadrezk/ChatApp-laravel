@@ -1,4 +1,4 @@
-Laravel Chat App with Reverb
+Laravel Chat App with Reverb and livewire
 This project provides a basic real-time chat application built with Laravel and Reverb for real-time communication.
 
 Prerequisites:
